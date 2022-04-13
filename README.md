@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+My code gets asked to compute different types of computations such as finsing how many vowels are in a word, finding the ascii sum of words, swapping letters around, etc.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 1
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+Geeks for geeks
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+NA
